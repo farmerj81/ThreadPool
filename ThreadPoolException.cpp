@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2011 Pierre Vorhagen, Etienne Doms.
+ * Copyright 2011
  *
  * This library is free software: you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
